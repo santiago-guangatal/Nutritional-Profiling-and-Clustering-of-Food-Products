@@ -1,4 +1,4 @@
-# 🥫 Nutritional Profiling and Clustering of Food Products Using OpenFoodFacts
+# Nutritional Profiling and Clustering of Food Products Using OpenFoodFacts
 
 This project analyzes **nutritional data of food products** using the public **[OpenFoodFacts](https://world.openfoodfacts.org/)** API.  
 A **SQLite database** is built, products are explored and classified based on their nutritional profiles, and **clustering (DBSCAN)** is applied to discover natural groupings.
